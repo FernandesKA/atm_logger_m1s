@@ -1,0 +1,6 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = git@github.com:buildroot/buildroot.git
+[submodule "buildroot_bouffalo"]
+	path = buildroot_bouffalo
+	url = git@github.com:FernandesKA/buildroot_bouffalo.git
